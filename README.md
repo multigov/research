@@ -3,7 +3,7 @@
 
 This 4-month program involves collaborative projects intended to answer open questions about DAOs and ecosystem governance. Registered participants will have an opportunity to earn rewards for contributing to this research initiative. Our primary goal is to bring valuable insights to builders at hackathons like [ETHDenver](https://www.ethdenver.com). We aim to deliver useful content that informs **research-driven design + development** to help solve real problems for communities around the world.
 
-### **Timeline:** October - January
+### Timeline: October - January
 
 *There will be checkpoints along the way to guide participants through the research process.*
 
