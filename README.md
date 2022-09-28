@@ -17,4 +17,4 @@ This 4-month program involves collaborative projects intended to answer open que
 
 ## What is MultiGov?
 
-The [MultiGov](https://twitter.com/multigov) team is a decentralized autonomous “think tank” a.k.a. policy DAO. This experimental organization facilitates generative action research with DAOs and communities. Together, we support various projects to answer important questions.
+[MultiGov](https://twitter.com/multigov) is a decentralized autonomous “think tank” a.k.a. policy DAO. This experimental organization facilitates generative action research with DAOs and communities. Together, we support various projects to answer important questions.
