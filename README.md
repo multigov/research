@@ -5,7 +5,7 @@ This 4-month program involves collaborative projects intended to answer open que
 
 ### Timeline: October - January
 
-*with checkpoints along the way to guide participants through the research process*
+*checkpoints along the way to guide participants through the research process*
 
 ### Categories => Tracks
 
